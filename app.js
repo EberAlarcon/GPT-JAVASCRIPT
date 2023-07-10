@@ -1,4 +1,4 @@
-console.log("Hola");
+//console.log("Hola");
 
 const API_KEY_OPENIA = process.env.API_KEY
 
